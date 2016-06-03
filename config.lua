@@ -1,14 +1,14 @@
 return {
-	bot_api_key = '',
+	bot_api_key = '230059908:AAHFnDTyhottc0LAmTY2qXoYQhePmLCDztM',
 	admin = {
-		owner = 23646077,
+		owner = 161731036,
 		admins = {
 			[141956218] = true,
-			[23646077] = true
+			[161731036] = true
 		} 
 	},
 	log_chat = -1001057801239,
-	channel = '@groupbutler_ch', --channel username with the '@'
+	channel = '@gssss', --channel username with the '@'
 	languages = 'languages.lua',
 	plugins = {
 		'onmessage.lua', --THIS HAVE TO BE THE FIRST: IF AN USER IS SPAMMING/IS BLOCKED, THE BOT WON'T GO THROUGH PLUGINS
